@@ -7,7 +7,7 @@ Clean your mail box is a good thing for the planet but it's also boring, let's w
 Open with your [*google count google app's*](https://script.google.com/home/start) script, your are on the start menu, go to my projects, create a new project and then go to the editor section.
 
 2. #### Update code JavaScript
-Replace the function "my function{}" with the code in the #code.js section
+Replace the function "my function{}" with the code in the [code.js](https://github.com/tongtongStudioa/CleanUpMyMailBox/blob/main/Code.js) section
 
 3. #### Set the trigger for the function
 Go to the section Trigger and add new trigger (button bottom-left) with **your setting**, mine are : once a month on the second day.
