@@ -9,7 +9,7 @@ Open with your [*google count google app's*](https://script.google.com/home/star
 2. #### Update code JavaScript
 Replace the function "my function{}" with the code in the #code.js section
 
-3. #### Set the trigger alarm
+3. #### Set the trigger for the function
 Go to the section Trigger and add new trigger (button bottom-left) with **your setting**, mine are : once a month on the second day.
 
 4. #### Test and change
